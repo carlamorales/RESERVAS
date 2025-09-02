@@ -38,6 +38,9 @@
 ### Paso 2 - Migraciones:
 ![Modelo y migraciones](images/9.png)
 
-## Parte 4.
+## Interfaz de Usuario (UI):
+![](images/10.png)
 
-### Listar reservas:
+![](images/11.png)
+
+![](images/12.png)
